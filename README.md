@@ -6,7 +6,7 @@ Branches:
 **master** : release and production
 **develop** : pre release build
 
-######Feature branches:
+###### Feature branches:
 **feature/**
 **hotfix/**
 **release/**
